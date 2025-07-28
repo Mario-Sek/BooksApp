@@ -1,4 +1,4 @@
-# BooksApp
+# BooksApp 
 
 A full-stack web application for managing books, authors, and wishlists, featuring a modern frontend with React + Material UI, a secure backend with Spring Boot, and a PostgreSQL database running in Docker.
 
